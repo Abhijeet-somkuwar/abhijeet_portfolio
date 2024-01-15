@@ -1,0 +1,42 @@
+html
+{
+    background-color:antiquewhite;
+    text-align: justify ;
+    
+}
+
+p[id = "brown"]
+{
+    color:#7E2553 ;
+}
+
+ol[id="brown"]
+{
+    color:#7E2553;
+}
+
+ul[id="brown"]
+{
+    color:#7E2553;
+}
+
+
+
+h2
+{
+    color:#FAF8F1 ;background: #C58940; 
+    text-align: left ;
+}
+
+h3 
+{
+    color:lightcoral;
+    text-align: left;
+}
+
+h4
+{
+    color:lightpink;
+    text-align:left;
+
+}
